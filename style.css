@@ -1,0 +1,9 @@
+
+.subencabezado {  /*nombre del estilo o botón*/
+background: #cccccc; /*color fondo*/
+border-bottom: 5px solid #b5f2f2; /*grosor, estilo y color borde inferior*/
+font: normal normal 18px quicksand;  /*fuente*/
+color:#ffffff;  /*color de la fuente*/
+letter-spacing: 2px; /*separación entre las letras*/
+text-transform: uppercase; /*texto se transforma en mayúsculas. Si no queremos mayúsculas, borrar esta línea*/
+padding: 6px;  /*tamaño-ancho del fondo*/
